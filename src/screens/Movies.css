@@ -1,0 +1,39 @@
+.movies {
+	margin: 0px auto;
+	width: 90%;
+}
+
+/* TITLE */
+
+.movies-title-container {
+	margin: 50px auto 30px auto;
+}
+
+.movies-title-content {
+	font-size: 52px;
+	letter-spacing: 5px;
+}
+
+/* FILTER */
+
+.movies-catfilter {
+	margin-bottom: 10px;
+}
+
+/* CARDS */
+
+.movies-cards-container {
+	margin: 0px auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+/* PAGINATION */
+
+.movies-pagination {
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

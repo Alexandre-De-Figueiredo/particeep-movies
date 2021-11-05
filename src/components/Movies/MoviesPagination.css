@@ -1,0 +1,7 @@
+.movies-pagination-container {
+	display: flex;
+}
+
+.movies-pagination-container > div {
+	margin: 20px;
+}
